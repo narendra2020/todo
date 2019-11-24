@@ -6,7 +6,7 @@ A small todo app built using React , Redux , Webpack , Node Js , Express Js and 
 
 ```bash
 # clone  repo
-$ git clone https://github.com/
+$ git clone https://github.com/narendra2020/todo.git
 
 # change directory to your app
 $ cd fractal-assignment/todo-frontend
