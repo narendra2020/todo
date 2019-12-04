@@ -9,13 +9,13 @@ A small todo app built using React , Redux , Webpack , Node Js , Express Js and 
 $ git clone https://github.com/narendra2020/todo.git
 
 # change directory to your app
-$ cd fractal-assignment/todo-frontend
+$ cd todo/todo-frontend
 
 # install the dependencies with npm
 $ npm install
 
 # change directory to your app
-$ cd fractal-assignment/todo-backend
+$ cd todo/todo-backend
 
 # install the dependencies with npm
 $ npm install
